@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartnerTransactionAPI", "PartnerTransactionAPI\PartnerTransactionAPI.csproj", "{EB1F85A7-B4EC-4CEC-8659-EE50C37049D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartnerTransactionAPI.Tests", "PartnerTransactionAPI.Tests\PartnerTransactionAPI.Tests.csproj", "{36B9DA94-A2A7-44F9-A1BA-B790B6B7822A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1F85A7-B4EC-4CEC-8659-EE50C37049D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1F85A7-B4EC-4CEC-8659-EE50C37049D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1F85A7-B4EC-4CEC-8659-EE50C37049D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1F85A7-B4EC-4CEC-8659-EE50C37049D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B9DA94-A2A7-44F9-A1BA-B790B6B7822A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B9DA94-A2A7-44F9-A1BA-B790B6B7822A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B9DA94-A2A7-44F9-A1BA-B790B6B7822A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B9DA94-A2A7-44F9-A1BA-B790B6B7822A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E04163-2F81-4FE4-A709-590E3FCDB00E}
+	EndGlobalSection
+EndGlobal
